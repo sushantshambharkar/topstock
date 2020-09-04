@@ -75,6 +75,7 @@ public class LoginPage extends PageObject {
 	@FindBy(xpath="//button[@type=\"sumbit\"]")
 	WebElementFacade submitLogin;
 	
+	
 	@FindBy(xpath="//*[@id=\"navbarSupportedContent\"]/ul/li[8]/a")
 	WebElementFacade clickCharts;
 	
