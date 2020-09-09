@@ -40,5 +40,5 @@ Scenario: get selected values from tech
 	Given User open tech top stock 
 	When  User gets tech data stock
 	Then  User select top stock 
->>>>>>> branch 'master' of https://github.com/sushantshambharkar/topstock
+
 	
