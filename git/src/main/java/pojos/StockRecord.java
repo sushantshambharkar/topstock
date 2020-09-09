@@ -1,3 +1,4 @@
+
 package pojos;
 
 public class StockRecord {
