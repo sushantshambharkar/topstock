@@ -14,7 +14,7 @@
  Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
-<<<<<<< HEAD
+
 [0m
 2020-05-19 00:22:07,472  INFO [main] ConsoleLoggingListener:249 - Test Suite Started: get User selected values
 2020-05-19 00:22:07,637  INFO [main] ConsoleLoggingListener:266 - 
@@ -80,4 +80,4 @@ TEST PASSED: get selected values from tech
 
 TEST PASSED: get selected values from tech
 ----------------------------------------------------------------------------
->>>>>>> refs/remotes/origin/master
+
