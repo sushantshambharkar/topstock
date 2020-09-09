@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package runners;
 
 import org.junit.runner.RunWith;
@@ -10,3 +11,17 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 public class getselectedtopstockrunner {
 
 }
+=======
+package runners;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import net.serenitybdd.cucumber.CucumberWithSerenity;
+
+@RunWith(CucumberWithSerenity.class)
+@CucumberOptions(features = {"src\\test\\resources\\features\\getSelectedChartValues.feature"}, glue= {"stepDefinations"})
+public class getselectedtopstockrunner {
+
+}
+>>>>>>> branch 'master' of https://github.com/sushantshambharkar/topstock
