@@ -1,89 +1,4 @@
-<<<<<<< HEAD
-2020-05-19 00:22:07,448  INFO [main] ConsoleLoggingListener:220 - [36m
-
--------------------------------------------------------------------------------------
-     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
-    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
-   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
-    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
-.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
-|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
-                                                                                     
- News and tutorials at http://www.serenity-bdd.info                                  
- Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
- Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
- Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
- Learn Serenity BDD online at http://serenity-dojo.com                               
--------------------------------------------------------------------------------------
-
-[0m
-2020-05-19 00:22:07,472  INFO [main] ConsoleLoggingListener:249 - Test Suite Started: get User selected values
-2020-05-19 00:22:07,637  INFO [main] ConsoleLoggingListener:266 - 
- _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
-|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
-  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
-  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
-  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
-                                                                  
-
-TEST STARTED: get selected values from tech
--------------------------------------------------------------------(get-user-selected-values;get-selected-values-from-tech)
-2020-05-19 00:23:16,982  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
-
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-2020-05-19 00:23:16,985  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
-
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-=======
-[0m
-2020-05-19 00:22:07,472  INFO [main] ConsoleLoggingListener:249 - Test Suite Started: get User selected values
-2020-05-19 00:22:07,637  INFO [main] ConsoleLoggingListener:266 - 
- _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
-|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
-  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
-  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
-  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
-                                                                  
-
-TEST STARTED: get selected values from tech
--------------------------------------------------------------------(get-user-selected-values;get-selected-values-from-tech)
-2020-05-19 00:23:16,982  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
-
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-2020-05-19 00:23:16,985  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
-
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-
-=======
-2020-05-19 00:22:07,448  INFO [main] ConsoleLoggingListener:220 - [36m
+2020-09-08 20:04:08,798  INFO [main] ConsoleLoggingListener:220 - [36m
 
 -------------------------------------------------------------------------------------
      _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
@@ -100,8 +15,8 @@ TEST PASSED: get selected values from tech
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
 [0m
-2020-05-19 00:22:07,472  INFO [main] ConsoleLoggingListener:249 - Test Suite Started: get User selected values
-2020-05-19 00:22:07,637  INFO [main] ConsoleLoggingListener:266 - 
+2020-09-08 20:04:08,822  INFO [main] ConsoleLoggingListener:249 - Test Suite Started: get User selected values
+2020-09-08 20:04:09,529  INFO [main] ConsoleLoggingListener:266 - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -111,24 +26,34 @@ TEST PASSED: get selected values from tech
 
 TEST STARTED: get selected values from tech
 -------------------------------------------------------------------(get-user-selected-values;get-selected-values-from-tech)
-2020-05-19 00:23:16,982  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
+2020-09-08 20:04:21,262  WARN [main] GeckoServicePool:77 - Remote driver creation failed (permission denied), falling back on default driver creation
+2020-09-08 20:05:36,854  WARN [main] WebDriverFacade:323 - Error while quitting the driver (Tried to run command without establishing a connection
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'DESKTOP-F60J8KS', ip: '192.168.221.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 76.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200507114007, moz:geckodriverVersion: 0.22.0, moz:headless: false, moz:processID: 13204, moz:profile: C:\Users\sushant\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 196a14d7-a81e-4a01-905c-3d8e5971ba42)
+2020-09-08 20:05:36,867 ERROR [main] ConsoleLoggingListener:324 - 
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
 
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-2020-05-19 00:23:16,985  INFO [main] ConsoleLoggingListener:393 - 
-        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
-  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
- (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
-  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
- (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
-        /_/                                                                
+TEST FAILED WITH ERROR: get selected values from tech
+---------------------------------------------------------------------
+2020-09-08 20:05:37,311 ERROR [main] ConsoleLoggingListener:364 - TEST FAILED AT STEP Get tech datavalues
+2020-09-08 20:05:37,313 ERROR [main] ConsoleLoggingListener:366 - Timed out after 6 seconds. Element not found
+2020-09-08 20:05:37,344 ERROR [main] ConsoleLoggingListener:324 - 
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
 
-TEST PASSED: get selected values from tech
-----------------------------------------------------------------------------
-
+TEST FAILED WITH ERROR: get selected values from tech
+---------------------------------------------------------------------
+2020-09-08 20:05:37,355 ERROR [main] ConsoleLoggingListener:364 - TEST FAILED AT STEP Get tech datavalues
+2020-09-08 20:05:37,355 ERROR [main] ConsoleLoggingListener:366 - Timed out after 6 seconds. Element not found
